@@ -5,6 +5,7 @@
 <title>git01</title>
 </head>
 <body>
-<h1>git01</h1>
+    <h1>git01</h1>
+    <p>コミットされていない変更があります</p>
 </body>
 </html>
