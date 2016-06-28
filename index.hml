@@ -2,10 +2,13 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>git01</title>
 </head>
 <body>
     <h1>git01</h1>
-    <p>コミットされていない変更があります</p>
+    <p>要素を追加</p>
+    <p>さらに追加しました。</p>
+    <p></p>
 </body>
 </html>
